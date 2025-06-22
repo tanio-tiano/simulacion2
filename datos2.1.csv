@@ -1,0 +1,229 @@
+customer_id,service_type,Tiempo_Servicio,Tiempo_Entre_Llegadas,Hora_Llegada,Hora_Atencion,Hora_Salida
+1,Cajero automático,2,0,09:00,09:00,09:02
+2,Atención al cliente,13,1,09:01,09:01,09:14
+3,Cajas generales,7,0,09:01,09:01,09:08
+4,Cajas generales,0,0,09:01,09:01,09:01
+5,Atención al cliente,0,3,09:04,09:04,09:04
+6,Caja preferencial,0,2,09:06,09:06,09:06
+7,Atención al cliente,1,1,09:07,09:07,09:08
+8,Cajero automático,12,2,09:09,09:09,09:21
+9,Cajas generales,8,0,09:09,09:09,09:17
+10,Atención al cliente,3,2,09:11,09:11,09:14
+11,Cajas generales,4,0,09:11,09:11,09:15
+12,Atención al cliente,7,0,09:11,09:11,09:18
+13,Cajero automático,17,6,09:17,09:17,09:34
+14,Atención al cliente,2,3,09:20,09:20,09:22
+15,Cajas generales,2,2,09:22,09:22,09:24
+16,Cajas generales,10,2,09:24,09:24,09:34
+17,Cajero automático,0,2,09:26,09:26,09:26
+18,Cajas generales,0,7,09:33,09:33,09:33
+19,Cajero automático,9,5,09:38,09:38,09:47
+20,Cajero automático,3,3,09:41,09:41,09:44
+21,Cajas generales,2,2,09:43,09:43,09:45
+22,Cajas generales,4,3,09:46,09:46,09:50
+23,Caja preferencial,4,3,09:49,09:49,09:53
+24,Cajas generales,2,3,09:52,09:52,09:54
+25,Cajas generales,7,1,09:53,09:53,10:00
+26,Atención al cliente,3,3,09:56,09:56,09:59
+27,Cajas generales,5,5,10:01,10:01,10:06
+28,Caja preferencial,5,2,10:03,10:03,10:08
+29,Atención al cliente,2,4,10:07,10:07,10:09
+30,Cajero automático,0,2,10:09,10:09,10:09
+31,Atención al cliente,1,1,10:10,10:10,10:11
+32,Atención al cliente,4,3,10:13,10:13,10:17
+33,Atención al cliente,0,2,10:15,10:15,10:15
+34,Atención al cliente,2,2,10:17,10:17,10:19
+35,Cajas generales,0,4,10:21,10:21,10:21
+36,Cajero automático,0,1,10:22,10:22,10:22
+37,Atención al cliente,0,4,10:26,10:26,10:26
+38,Cajero automático,0,1,10:27,10:27,10:27
+39,Cajero automático,2,0,10:27,10:27,10:29
+40,Atención al cliente,8,0,10:27,10:27,10:35
+41,Caja preferencial,1,1,10:28,10:28,10:29
+42,Atención al cliente,8,5,10:33,10:33,10:41
+43,Cajas generales,0,0,10:33,10:33,10:33
+44,Atención al cliente,1,0,10:33,10:33,10:34
+45,Atención al cliente,6,0,10:33,10:33,10:39
+46,Cajas generales,4,4,10:37,10:37,10:41
+47,Cajas generales,0,1,10:38,10:38,10:38
+48,Atención al cliente,2,4,10:42,10:42,10:44
+49,Cajas generales,9,2,10:44,10:44,10:53
+50,Cajas generales,5,0,10:44,10:44,10:49
+51,Cajero automático,3,0,10:44,10:44,10:47
+52,Cajas generales,8,5,10:49,10:49,10:57
+53,Cajero automático,0,0,10:49,10:49,10:49
+54,Cajero automático,1,1,10:50,10:50,10:51
+55,Cajero automático,0,3,10:53,10:53,10:53
+56,Cajas generales,2,2,10:55,10:55,10:57
+57,Cajero automático,8,1,10:56,10:56,11:04
+58,Cajero automático,5,4,11:00,11:00,11:05
+59,Cajas generales,1,4,11:04,11:04,11:05
+60,Cajas generales,3,2,11:06,11:06,11:09
+61,Atención al cliente,3,0,11:06,11:06,11:09
+62,Atención al cliente,7,0,11:06,11:06,11:13
+63,Cajero automático,3,0,11:06,11:06,11:09
+64,Atención al cliente,5,0,11:06,11:06,11:11
+65,Cajero automático,2,5,11:11,11:11,11:13
+66,Cajero automático,2,0,11:11,11:11,11:13
+67,Cajas generales,6,2,11:13,11:13,11:19
+68,Cajas generales,5,1,11:14,11:14,11:19
+69,Cajero automático,3,0,11:14,11:14,11:17
+70,Cajas generales,7,3,11:17,11:17,11:24
+71,Cajero automático,3,0,11:17,11:17,11:20
+72,Cajero automático,0,9,11:26,11:26,11:26
+73,Cajas generales,4,2,11:28,11:28,11:32
+74,Cajero automático,1,4,11:32,11:32,11:33
+75,Cajero automático,1,4,11:36,11:36,11:37
+76,Cajero automático,2,0,11:36,11:36,11:38
+77,Cajas generales,1,3,11:39,11:39,11:40
+78,Cajero automático,4,1,11:40,11:40,11:44
+79,Cajero automático,1,3,11:43,11:43,11:44
+80,Atención al cliente,1,1,11:44,11:44,11:45
+81,Atención al cliente,2,2,11:46,11:46,11:48
+82,Atención al cliente,1,0,11:46,11:46,11:47
+83,Atención al cliente,0,0,11:46,11:46,11:46
+84,Cajero automático,1,0,11:46,11:46,11:47
+85,Caja preferencial,0,2,11:48,11:48,11:48
+86,Cajas generales,0,1,11:49,11:49,11:49
+87,Cajas generales,1,3,11:52,11:52,11:53
+88,Cajas generales,5,0,11:52,11:52,11:57
+89,Atención al cliente,3,1,11:53,11:53,11:56
+90,Caja preferencial,0,3,11:56,11:56,11:56
+91,Cajero automático,5,5,12:01,12:01,12:06
+92,Cajas generales,4,3,12:04,12:04,12:08
+93,Atención al cliente,0,0,12:04,12:04,12:04
+94,Cajas generales,0,1,12:05,12:05,12:05
+95,Cajas generales,1,0,12:05,12:05,12:06
+96,Cajas generales,7,0,12:05,12:05,12:12
+97,Cajas generales,5,6,12:11,12:11,12:16
+98,Atención al cliente,5,1,12:12,12:12,12:17
+99,Cajero automático,6,0,12:12,12:12,12:18
+100,Atención al cliente,11,1,12:13,12:13,12:24
+101,Cajero automático,3,0,12:13,12:13,12:16
+102,Caja preferencial,1,4,12:17,12:17,12:18
+103,Atención al cliente,4,2,12:19,12:19,12:23
+104,Atención al cliente,15,4,12:23,12:23,12:38
+105,Cajas generales,1,14,12:37,12:37,12:38
+106,Atención al cliente,0,2,12:39,12:39,12:39
+107,Atención al cliente,0,1,12:40,12:40,12:40
+108,Atención al cliente,3,3,12:43,12:43,12:46
+109,Atención al cliente,2,0,12:43,12:43,12:45
+110,Cajas generales,8,0,12:43,12:43,12:51
+111,Cajas generales,6,4,12:47,12:47,12:53
+112,Caja preferencial,3,0,12:47,12:47,12:50
+113,Atención al cliente,0,4,12:51,12:51,12:51
+114,Cajas generales,0,2,12:53,12:53,12:53
+115,Caja preferencial,1,1,12:54,12:54,12:55
+116,Cajas generales,0,4,12:58,12:58,12:58
+117,Caja preferencial,0,2,13:00,13:00,13:00
+118,Cajas generales,4,0,13:00,13:00,13:04
+119,Cajas generales,4,0,13:00,13:00,13:04
+120,Caja preferencial,1,1,13:01,13:01,13:02
+121,Cajas generales,0,0,13:01,13:01,13:01
+122,Cajas generales,13,0,13:01,13:01,13:14
+123,Atención al cliente,8,0,13:01,13:01,13:09
+124,Cajas generales,7,0,13:01,13:01,13:08
+125,Cajas generales,1,0,13:01,13:01,13:02
+126,Atención al cliente,2,1,13:02,13:02,13:04
+127,Caja preferencial,0,1,13:03,13:03,13:03
+128,Atención al cliente,4,1,13:04,13:04,13:08
+129,Cajas generales,4,1,13:05,13:05,13:09
+130,Caja preferencial,2,0,13:05,13:05,13:07
+131,Cajero automático,5,5,13:10,13:10,13:15
+132,Cajas generales,2,9,13:19,13:19,13:21
+133,Cajas generales,2,1,13:20,13:20,13:22
+134,Cajas generales,0,0,13:20,13:20,13:20
+135,Atención al cliente,2,4,13:24,13:24,13:26
+136,Atención al cliente,1,0,13:24,13:24,13:25
+137,Cajas generales,3,0,13:24,13:24,13:27
+138,Cajas generales,2,3,13:27,13:27,13:29
+139,Atención al cliente,0,1,13:28,13:28,13:28
+140,Atención al cliente,4,0,13:28,13:28,13:32
+141,Cajas generales,6,2,13:30,13:30,13:36
+142,Atención al cliente,6,2,13:32,13:32,13:38
+143,Cajas generales,11,1,13:33,13:33,13:44
+144,Atención al cliente,12,0,13:33,13:33,13:45
+145,Cajero automático,0,0,13:33,13:33,13:33
+146,Cajas generales,3,0,13:33,13:33,13:36
+147,Cajas generales,2,5,13:38,13:38,13:40
+148,Caja preferencial,7,0,13:38,13:38,13:45
+149,Atención al cliente,1,0,13:38,13:38,13:39
+150,Cajas generales,3,0,13:38,13:38,13:41
+151,Cajas generales,7,2,13:40,13:40,13:47
+152,Cajas generales,3,7,13:47,13:47,13:50
+153,Cajero automático,0,0,13:47,13:47,13:47
+154,Cajas generales,0,0,13:47,13:47,13:47
+155,Cajas generales,3,0,13:47,13:47,13:50
+156,Cajas generales,0,0,13:47,13:47,13:47
+157,Cajas generales,0,3,13:50,13:50,13:50
+158,Cajas generales,4,2,13:52,13:52,13:56
+159,Cajas generales,1,1,13:53,13:53,13:54
+160,Cajas generales,0,0,13:53,13:53,13:53
+161,Cajero automático,1,3,13:56,13:56,13:57
+162,Cajas generales,0,0,13:56,13:56,13:56
+163,Cajas generales,1,4,14:00,14:00,14:01
+164,Cajas generales,6,0,14:00,14:00,14:06
+165,Atención al cliente,0,2,14:02,14:02,14:02
+166,Cajero automático,4,1,14:03,14:03,14:07
+167,Cajas generales,2,1,14:04,14:04,14:06
+168,Cajas generales,1,1,14:05,14:05,14:06
+169,Cajas generales,7,5,14:10,14:10,14:17
+170,Cajero automático,1,0,14:10,14:10,14:11
+171,Cajas generales,2,10,14:20,14:20,14:22
+172,Cajas generales,1,0,14:20,14:20,14:21
+173,Cajas generales,3,1,14:21,14:21,14:24
+174,Cajas generales,1,0,14:21,14:21,14:22
+175,Cajero automático,4,0,14:21,14:21,14:25
+176,Cajas generales,0,3,14:24,14:24,14:24
+177,Caja preferencial,1,7,14:31,14:31,14:32
+178,Cajero automático,4,0,14:31,14:31,14:35
+179,Caja preferencial,0,1,14:32,14:32,14:32
+180,Atención al cliente,2,1,14:33,14:33,14:35
+181,Cajero automático,2,2,14:35,14:35,14:37
+182,Cajas generales,5,0,14:35,14:35,14:40
+183,Cajas generales,5,6,14:41,14:41,14:46
+184,Atención al cliente,0,3,14:44,14:44,14:44
+185,Cajas generales,0,2,14:46,14:46,14:46
+186,Cajero automático,7,0,14:46,14:46,14:53
+187,Caja preferencial,2,2,14:48,14:48,14:50
+188,Cajas generales,1,1,14:49,14:49,14:50
+189,Atención al cliente,2,1,14:50,14:50,14:52
+190,Cajas generales,1,0,14:50,14:50,14:51
+191,Cajas generales,0,1,14:51,14:51,14:51
+192,Cajas generales,1,0,14:51,14:51,14:52
+193,Cajas generales,4,1,14:52,14:52,14:56
+194,Atención al cliente,0,0,14:52,14:52,14:52
+195,Atención al cliente,0,0,14:52,14:52,14:52
+196,Cajas generales,1,0,14:52,14:52,14:53
+197,Caja preferencial,1,1,14:53,14:53,14:54
+198,Atención al cliente,6,0,14:53,14:53,14:59
+199,Cajas generales,4,0,14:53,14:53,14:57
+200,Atención al cliente,0,0,14:53,14:53,14:53
+201,Cajas generales,13,1,14:54,14:54,15:07
+202,Atención al cliente,4,0,14:54,14:54,14:58
+203,Cajas generales,2,1,14:55,14:55,14:57
+204,Cajero automático,11,4,14:59,14:59,15:10
+205,Atención al cliente,0,6,15:05,15:05,15:05
+206,Cajas generales,1,4,15:09,15:09,15:10
+207,Cajas generales,1,0,15:09,15:09,15:10
+208,Cajero automático,0,7,15:16,15:16,15:16
+209,Cajas generales,6,1,15:17,15:17,15:23
+210,Cajas generales,1,0,15:17,15:17,15:18
+211,Atención al cliente,5,0,15:17,15:17,15:22
+212,Cajas generales,1,0,15:17,15:17,15:18
+213,Cajero automático,14,1,15:18,15:18,15:32
+214,Cajas generales,3,0,15:18,15:18,15:21
+215,Cajero automático,8,0,15:18,15:18,15:26
+216,Atención al cliente,3,1,15:19,15:19,15:22
+217,Cajas generales,1,1,15:20,15:20,15:21
+218,Atención al cliente,0,1,15:21,15:21,15:21
+219,Atención al cliente,1,1,15:22,15:22,15:23
+220,Caja preferencial,0,0,15:22,15:22,15:22
+221,Cajero automático,1,0,15:22,15:22,15:23
+222,Cajas generales,1,0,15:22,15:22,15:23
+223,Atención al cliente,1,2,15:24,15:24,15:25
+224,Cajero automático,7,0,15:24,15:24,15:31
+225,Cajero automático,1,2,15:26,15:26,15:27
+226,Cajas generales,2,1,15:27,15:27,15:29
+227,Cajas generales,1,1,15:28,15:28,15:29
+228,Cajero automático,0,5,15:33,15:33,15:33
